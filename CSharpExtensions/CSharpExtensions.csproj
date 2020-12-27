@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>İsmail Sarıkaya</Authors>
+    <Company>https://ismail-sarikaya.com</Company>
+  </PropertyGroup>
+
+</Project>
